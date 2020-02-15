@@ -1,0 +1,7 @@
+C:\Users\Anders Gaarsdal\Documents\Git\Spring-2020\Store\Store\bin\Debug\Store.exe.config
+C:\Users\Anders Gaarsdal\Documents\Git\Spring-2020\Store\Store\bin\Debug\Store.exe
+C:\Users\Anders Gaarsdal\Documents\Git\Spring-2020\Store\Store\bin\Debug\Store.pdb
+C:\Users\Anders Gaarsdal\Documents\Git\Spring-2020\Store\Store\obj\Debug\Store.csprojAssemblyReference.cache
+C:\Users\Anders Gaarsdal\Documents\Git\Spring-2020\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\Anders Gaarsdal\Documents\Git\Spring-2020\Store\Store\obj\Debug\Store.exe
+C:\Users\Anders Gaarsdal\Documents\Git\Spring-2020\Store\Store\obj\Debug\Store.pdb
